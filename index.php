@@ -1,5 +1,5 @@
 <?php
-include('login.php'); // Includes Login Script
+include('login_fun.php'); // Includes Login Script
 include 'libs.php';
 ?>
 <!DOCTYPE html>
